@@ -1,10 +1,4 @@
-﻿body {
-  margin:0 auto;
-  background-color:rgba(242, 242, 242, 1);
-  font-size: 8px;
-}
-
-.mainCanvas{
+﻿.mainCanvas{
   background-color:white;
   border: 1px solid #ccc;
 }
@@ -40,17 +34,5 @@
   justify-content: center;
 }
 
-#header {
-  border-width:0 1px 1px 1px;
-  border-style:solid;
-  position:fixed;
-  top: 0;
-  width: 100%;
-  height:7em;
-  display:flex;
-  background-color:#7AB660;
-  box-sizing:border-box;
-  border-color:black;
-}
 
 
